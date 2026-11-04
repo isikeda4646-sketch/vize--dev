@@ -1,0 +1,158 @@
+.body {
+    background-color: #0d0d12;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.header {
+    background-color: #17131f;
+    padding: 20px;
+    border: 2px solid #b56aff;
+}
+
+.logo {
+    color: #b56aff;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.menu {
+    color: #c9b5e8;
+    font-size: 14px;
+}
+
+.bolum {
+    padding: 30px;
+    margin: 20px;
+}
+
+.etiket {
+    color: #b56aff;
+    font-weight: bold;
+}
+
+.h1 {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+.h2 {
+    color: #b56aff;
+    font-size: 24px;
+    border: 1px solid #b56aff;
+    padding: 10px;
+}
+
+.h3 {
+    color: #d8b4fe;
+}
+
+.aciklama {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.kart {
+    background-color: #191622;
+    border: 1px solid #553477;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+.buton {
+    color: white;
+    background-color: #7027a8;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.footer {
+    background-color: #17131f;
+    color: #c9b5e8;
+    text-align: center;
+    padding: 20px;
+}
+
+.slogan {
+    color: #c9a0ff;
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+    margin: 15px;
+}
+
+.jk-resim{
+    width: 250px;
+    height: 250;
+    margin:auto;
+    border: 2px solid #b56aff;
+}
+.army-yazi{
+    color: #c9a0ff;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+    letter-spacing: 3px;
+}
+.sanatci-resim{
+    width: 300px;
+    height: auto;
+    border: 2px solid #b56aff;
+    padding: 3px;
+    margin: 10px auto;
+    display: block;
+}
+.bts-baslik{
+    text-align: center;
+}
+.profil-resim {
+    width: 230px;
+    height: 200px;
+    border: 5px solid #b56aff;
+    padding: 4px;
+    margin: 8px auto;
+    border-radius: 90%;
+    display:block;
+}
+.h2{
+    color: #c084fc;
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.hobiler-bolumu {
+    background-color: #0d0d12;
+    padding: 30px;
+    margin: 20px;
+    border: 1px solid #b56aff;
+}
+
+.hobi-kart{
+    background-color: #191622;
+    border: 2px solid #b56aff;
+    padding: 20px;
+    margin: 10px;
+}
+.hobi-kart h3 {
+    color: #d8b4fe;
+    font-size: 20px;
+}
+.hobi-kart p {
+    color: white;
+    font-size: 15px;
+    line-height: 1.6;
+}
+.hobi-ikon {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.jk-galeri + h3{
+    text-align: center;
+}
+.jk-baslik{
+    text-align: center;
+}
