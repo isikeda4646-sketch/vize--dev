@@ -64,6 +64,11 @@ header{
     border: 1px solid #553477;
     padding: 20px;
     margin: 15px 0;
+.bts-galeri {
+    background-color: #191622;
+    border: 1px solid #553477;
+    padding: 20px;
+    margin: 15px 0;
 }
 
 .buton {
