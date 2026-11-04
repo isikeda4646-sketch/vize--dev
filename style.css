@@ -52,6 +52,9 @@ body {
 .aciklama {
     font-size: 18px;
     line-height: 1.5;
+    padding:10px;
+    margin:10px;
+    text-align:left;
 }
 
 .kart {
